@@ -1,0 +1,9 @@
+.grunt
+node_modules
+js/lib
+js/compiled
+css/lib
+css/compiled
+test/output
+.bowerrc
+_SpecRunner.html
