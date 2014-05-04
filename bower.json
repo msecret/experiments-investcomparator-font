@@ -3,14 +3,7 @@
   "version": "0.0.2",
   "dependencies": {
     "pure": "0.4.2",
-    "requirejs": "2.1.11"
-  },
-  "install": {
-    "path" : {
-      "css": "css/lib",
-      "js": "js/lib"
-    },
-    "sources": {
-    }
+    "requirejs": "2.1.11",
+    "flight": "~1.1.4"
   }
 }

@@ -21,8 +21,7 @@
     "grunt-contrib-htmlmin": "^0.2.0",
     "grunt-template-jasmine-requirejs": "^0.1.10",
     "grunt-requirejs": "^0.4.2",
-    "grunt-jsdoc": "^0.5.4",
-    "bower-installer": "^0.7.1"
+    "grunt-jsdoc": "^0.5.4"
   },
   "dependencies": {}
 }

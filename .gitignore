@@ -1,8 +1,7 @@
 .grunt
 node_modules
-js/lib
+lib/components
 js/compiled
-css/lib
 css/compiled
 test/output
 .bowerrc
